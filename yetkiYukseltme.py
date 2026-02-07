@@ -6,7 +6,7 @@ For authorized security testing and penetration testing only.
 
 Python YetkiYukseltme.py
 
-"""
+""" 
 
 import os
 import sys
